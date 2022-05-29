@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Video Conferencing/Video Conferencing.iml" filepath="$PROJECT_DIR$/Video Conferencing/Video Conferencing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Video Server/Video Server.iml" filepath="$PROJECT_DIR$/Video Server/Video Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/VideoConference-master.iml" filepath="$PROJECT_DIR$/.idea/VideoConference-master.iml" />
+    </modules>
+  </component>
+</project>
