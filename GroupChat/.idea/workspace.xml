@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4406ea98-0910-4e4a-9902-cbc994c814ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29Waic90mZIKcG5MyNaXru72yIh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/SceneBuilder/SceneBuilder.exe" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Server" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.server.Server" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\ora-2\javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.client.login.MainLauncher" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\ora-2\javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4406ea98-0910-4e4a-9902-cbc994c814ee" name="Default Changelist" comment="" />
+      <created>1653231426445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653231426445</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="63" width="1089" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1653231681600">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" width="1089" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1653231681600" />
+    <state x="577" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1653231677232">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="577" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.816@0.0.1536.816" timestamp="1653231677232" />
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1653943115427">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1653943115427" />
+    <state x="473" y="150" key="FileChooserDialogImpl" timestamp="1653941746630">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="473" y="150" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1653941746630" />
+    <state width="1493" height="57" key="GridCell.Tab.0.bottom" timestamp="1653338237756">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="57" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1653338237756" />
+    <state width="1493" height="57" key="GridCell.Tab.0.center" timestamp="1653338237756">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="57" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1653338237756" />
+    <state width="1493" height="57" key="GridCell.Tab.0.left" timestamp="1653338237755">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="57" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1653338237755" />
+    <state width="1493" height="57" key="GridCell.Tab.0.right" timestamp="1653338237756">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="57" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1653338237756" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1653941680770">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1653941680770" />
+    <state x="478" y="141" width="913" height="534" key="find.popup" timestamp="1653943288581">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="478" y="141" width="913" height="534" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1653943288581" />
+  </component>
+</project>
