@@ -49,8 +49,10 @@ public class Clients implements Runnable
                 message = (String) input.readObject();
                 System.out.println("Server is receiving   "+ message);
                 StringTokenizer tokens=new StringTokenizer(message);
+                System.out.println(tokens);
                 String header=tokens.nextToken();
                 name=tokens.nextToken();
+                String password = tokens.nextToken();
                 if(header.equalsIgnoreCase("login"))
                 {
                     serverManager.sendNameToAll(message);
@@ -61,13 +63,13 @@ public class Clients implements Runnable
                         String userName=ServerManager.clientTracker[i];
                         if(!userName.equalsIgnoreCase(""))
                         {
-                            output.writeObject("login "+userName+" "+client.getInetAddress());
+                            output.writeObject("login "+userName+" "+client.getInetAddress()+" "+ password);
                             System.out.print("$$"+client.getInetAddress());
                             output.flush();
                         }
                     }
 
-                    clientListener.signIn(name);
+                    clientListener.signIn(name, password);
                     clientListener.clientStatus(name+": is signIn , IPaddress :"+client.getInetAddress()+"  ,portNumber :"+client.getPort()+" by sharma");
                     String ip ="";
                     ip += client.getInetAddress();

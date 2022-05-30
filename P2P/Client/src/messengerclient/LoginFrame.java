@@ -20,6 +20,7 @@ public class LoginFrame extends javax.swing.JFrame {
     ClientWindowListener clientWindowListener;
     ServerSettings serverSettings;
     String userName;
+    String userPassword;
     int messagingFrameNo=0;
     MessagingFrame [] messagingFrames;
     
@@ -175,7 +176,7 @@ public class LoginFrame extends javax.swing.JFrame {
 
     private void but_signinActionPerformed()
     {
-        if(!loginP.tf_user_name.getText().isEmpty())
+        if(!loginP.tf_user_name.getText().isEmpty() && !loginP.user_Password.getText().isEmpty())
         {
         	if(serverSettings != null)
         	{
